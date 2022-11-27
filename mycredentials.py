@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # File containing the google api json credentials.
-credentials_file = ""
+credentials_file = "google_api.json"
 
 # ID of google spreadsheet
 spreadsheet_id = ""
